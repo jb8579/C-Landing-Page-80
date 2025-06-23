@@ -1,0 +1,1068 @@
+@import url("https://fonts.googleapis.com/css2?family=Monda:wght@400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    background: #fff;
+    color: #333333;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1240px;
+    display: block;
+    margin: auto;
+    padding: 0 15px;
+}
+
+.top5casinold1-top18plus-area {
+    background-color: #6a00a9;
+    padding: 8px 0;
+}
+
+.top5casinold1-top18plus-part p {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.top5casinold1-top18plus-part p img {
+    max-width: 100%;
+    display: block;
+    margin-right: 5px;
+}
+
+.main-area {
+    padding: 80px 0px;
+    background-image: url("img/bg1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+.main-area::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background: linear-gradient(45deg, #000000c7, #41057c6b);
+}
+
+.headertext h1 {
+    font-family: "Monda", sans-serif;
+    color: #fff;
+    font-size: 56px;
+    font-weight: 600;
+    margin: 0;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+.headertext p {
+    color: #f9f9f9;
+    font-size: 18px;
+    margin: 0;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0px 140px;
+}
+
+.headertext ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    padding-top: 45px;
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+
+.headertext ul li {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.headertext ul li:first-child {
+    margin-left: 0;
+}
+
+.headertext ul li:last-child {
+    margin-right: 0;
+}
+
+.headertext ul li img {
+    max-width: 100%;
+}
+
+.headertext ul li h6 {
+    font-family: "Monda", sans-serif;
+    color: #fff;
+    font-size: 16px;
+    margin: 0;
+    font-weight: 600;
+    position: relative;
+    padding-left: 4px;
+}
+
+.maintextareabg {
+    background-image: url("img/bg4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0px;
+    position: relative;
+    z-index: 1;
+}
+.maintextareabg::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background: linear-gradient(45deg, #000000d9, #41057c6b);
+}
+.txnewhero-area {
+    padding: 80px 0;
+    padding-bottom: 50px;
+}
+
+.txnewherotext h1 {
+    font-family: "Monda", sans-serif;
+    color: #000000;
+    font-size: 45px;
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 35px;
+}
+
+.top5casinold1-ofrbs-box-area {
+    background-color: #fff;
+    padding: 80px 0;
+}
+
+.top5casinold1-offerhd {
+    border-radius: 14px 14px 0px 0px;
+    border: 1px solid #e4e4e4;
+    background: #b55bef;
+    display: flex;
+    height: 80px;
+    align-items: center;
+    text-align: center;
+}
+
+.top5casinold1-offerhd-text {
+    width: 20%;
+}
+
+.top5casinold1-offerhd-text h2 {
+    font-family: "Monda", sans-serif;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.top5casinold1-ofrbs-boxlogo {
+    position: relative;
+}
+
+.main-top5casinold1-ofrbs-box {
+    display: flex;
+}
+
+.top5casinold1-ofrbs-boxleft {
+    width: 80%;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+}
+
+.top5casinold1-ofrbs-boxright {
+    width: 20%;
+    height: 193px;
+    border: 1px solid #e4e4e4;
+    display: grid;
+    align-items: center;
+    padding: 0 25px;
+    box-sizing: border-box;
+    border-left: 0px;
+}
+
+.top5casinold1-offterboxlogo {
+    width: 25%;
+    position: relative;
+    height: 193px;
+    border: 1px solid #e4e4e4;
+    display: grid;
+    align-items: center;
+    padding: 0 25px;
+    box-sizing: border-box;
+    border-right: 0px;
+}
+
+.top5casinold1-ofrbsbox-name {
+    width: 25%;
+    position: relative;
+    height: 193px;
+    border: 1px solid #e4e4e4;
+    display: grid;
+    align-items: center;
+    padding: 0 25px;
+    box-sizing: border-box;
+}
+
+.top5casinold1-ofrbsbox-bonus {
+    width: 25%;
+    position: relative;
+    height: 193px;
+    border: 1px solid #e4e4e4;
+    display: grid;
+    align-items: center;
+    padding: 0 25px;
+    box-sizing: border-box;
+    border-left: 0px;
+}
+
+.top5casinold1-ofrbsbox-score {
+    width: 25%;
+    position: relative;
+    height: 193px;
+    border: 1px solid #e4e4e4;
+    display: grid;
+    align-items: center;
+    padding: 0 25px;
+    box-sizing: border-box;
+    border-left: 0px;
+}
+
+.top5casinold1boxlogo {
+    max-width: 100%;
+    display: block;
+    position: relative;
+    z-index: 999;
+    margin: auto;
+    border-radius: 6px;
+}
+
+.top5casinold1-ofrbsbox-name h3 {
+    font-family: "Monda", sans-serif;
+    color: #06009e;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 35px;
+    text-align: center;
+    padding-bottom: 12px;
+}
+
+.top5casinold1-ofrbsbox-name img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.top5casinold1-ofrbsbox-name p {
+    color: #8d8d8d;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 0;
+    line-height: 34px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+p.top5cspin {
+    font-size: 18px !important;
+    color: #918a7e !important;
+}
+
+.top5casinold1-ofrbsbox-bonus p {
+    font-family: "Monda", sans-serif;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    font-weight: 600;
+}
+
+.top5casinold1-ofrbsbox-bonus h3 {
+    font-family: "Monda", sans-serif;
+    color: #06009e;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    padding: 5px 0px 0px 0px;
+}
+
+.scorebox {
+    width: 161px;
+    height: 91px;
+    border-radius: 100px;
+    border: 2px dashed #bcbcbc;
+    margin: auto;
+    display: grid;
+    align-items: center;
+}
+
+.scorebox h4 {
+    font-family: "Monda", sans-serif;
+    color: #06009e;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+
+.scorebox h4 sub {
+    color: #000000;
+    font-size: 20px;
+    padding-bottom: 7px;
+    padding-left: 3px;
+}
+
+.top5casinold1-ofrbs-boxbtn a {
+    font-family: "Monda", sans-serif;
+    color: #000;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    height: 55px;
+    line-height: 55px;
+    font-weight: 600;
+    align-items: center;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+    border: 1px solid #ffc565;
+    background: linear-gradient(93deg, #f7b13e 2.7%, #ffc970 106.78%);
+    box-shadow: 0px -3px 11px 0px rgba(0, 0, 0, 0.25) inset;
+}
+
+.top5casinold1-ofrbs-boxbtn a:hover {
+    background-color: #fff;
+}
+
+.mainoffer {
+    position: absolute;
+    left: -4px;
+    z-index: 9999999;
+    top: 10px;
+}
+
+.offer {
+    width: 55px;
+    height: 27px;
+    position: relative;
+}
+
+.offer img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    z-index: 99;
+    top: 0;
+}
+
+.offer p {
+    font-family: "Monda", sans-serif;
+    color: #000000;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    z-index: 99;
+    padding: 2px 0;
+}
+
+.cutbox {
+    width: 24.6px;
+    height: 23.24px;
+    background: #936c2b;
+    display: block;
+    position: absolute;
+    top: 22px;
+    transform: rotate(34deg);
+    z-index: 9;
+    left: 0px;
+}
+
+.bettingtext-area {
+    padding: 60px 0;
+    background-color: #fff;
+}
+
+.top5casinold1-francecsno-text-area2 {
+    padding: 30px 0;
+    padding-bottom: 40px;
+}
+
+.bettingtext-hd {
+    padding-bottom: 50px;
+}
+
+.bettingtext-hd h2 {
+    font-family: "Monda", sans-serif;
+    color: #000;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    padding-bottom: 8px;
+}
+
+.bettingtext-hd p {
+    color: #5e5d5d;
+    font-size: 17px;
+    margin: 0;
+    line-height: 28px;
+    font-weight: 400;
+    padding: 8px 0px 0px 0px;
+}
+
+.bettingtext-item1 {
+    padding-bottom: 35px;
+}
+
+.bettingtext-item1 h2 {
+    color: #000;
+    font-size: 25px;
+    font-weight: 500;
+    padding-bottom: 8px;
+}
+
+.bettingtext-item1 p {
+    color: #5e5d5d;
+    font-size: 17px;
+    margin: 0;
+    line-height: 28px;
+    font-weight: 400;
+    padding: 8px 0px 10px 0px;
+}
+
+.bettingtext-item1 ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    padding-top: 5px;
+}
+
+.bettingtext-item1 ul li {
+    display: block;
+    padding-bottom: 10px;
+}
+
+.bettingtext-item1 ul li:last-child {
+    padding-bottom: 0px;
+}
+
+.bettingtext-item1 ul li h6 {
+    color: #fff;
+    font-size: 18px;
+    margin: 0;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+.top5casinold1footer-area {
+    background-color: #663399;
+    padding: 0px 0;
+    padding-bottom: 0px;
+}
+
+.top5casinold1footer-part {
+    padding-top: 80px;
+}
+
+.top5casinold1footer-nav ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 18px;
+}
+
+.top5casinold1footer-nav ul li {
+    display: inline-block;
+    margin-right: 28px;
+}
+
+.top5casinold1footer-nav ul li:first-child {
+    margin-left: 0px;
+}
+
+.top5casinold1footer-nav ul li:last-child {
+    margin-right: 0px;
+}
+
+.top5casinold1footer-nav ul li span {
+    color: #fff;
+    font-size: 16px;
+}
+
+.top5casinold1footer-nav ul li a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+    display: block;
+    transition: 0.2s all ease;
+}
+
+.top5casinold1footer-nav ul li a:hover {
+    color: #f7b13e;
+}
+
+.top5casinold1footerlogos ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    padding-bottom: 35px;
+    text-align: center;
+}
+
+.top5casinold1footerlogos ul li {
+    display: inline-block;
+    margin: 0 6px;
+}
+
+.top5casinold1footerlogos ul li:first-child {
+    margin-left: 0px;
+}
+
+.top5casinold1footerlogos ul li:last-child {
+    margin-right: 0px;
+}
+
+.top5casinold1footerlogos ul li a img {
+    max-width: 100%;
+    display: block;
+    height: 86px;
+}
+
+.top5casinold1footerpr-part p {
+    color: #e9e9e9;
+    font-size: 16px;
+    margin: 0;
+    font-weight: 400;
+    line-height: 28px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.top5casinold1-copyright-area {
+    padding: 16px 0;
+}
+
+.top5casinold1-copyright-area p {
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 300;
+    margin: 0px;
+}
+
+.newhero-area {
+    background-color: #eceff6;
+    padding: 65px 0;
+}
+
+.newhero-part {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.newhero-left {
+    width: 50%;
+}
+
+.newhero-right {
+    width: 50%;
+}
+
+.newhero-left h2 {
+    font-family: "Overlock", sans-serif;
+    color: #29539f;
+    font-size: 55px;
+    font-weight: 900;
+    padding-bottom: 5px;
+}
+
+.newhero-left p {
+    color: #000000;
+    font-size: 19px;
+    margin: 0;
+    padding-top: 7px;
+}
+
+.newhero-left img {
+    display: none;
+}
+
+.newhero-right img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    margin-right: 0px;
+}
+
+.newtexts-area {
+    background-color: #fff;
+    padding: 70px 0;
+}
+
+.newtextitem1 {
+    padding-bottom: 30px;
+}
+
+.newtextitem1 h2 {
+    font-family: "Overlock", sans-serif;
+    color: #29539f;
+    font-size: 37px;
+    font-weight: 900;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.newtextitem1 p {
+    color: #000;
+    font-size: 19px;
+    line-height: 33px;
+    margin: 0;
+}
+
+.newtextitem1 p a {
+    color: #29539f;
+}
+
+.newtextitem2 {
+    padding-bottom: 30px;
+}
+
+.newtextitem2 h2 {
+    font-family: "Overlock", sans-serif;
+    color: #29539f;
+    font-size: 37px;
+    font-weight: 900;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.newtextitem2 h3 {
+    color: #000;
+    font-size: 19px;
+    line-height: 33px;
+    margin: 0;
+    font-weight: 400;
+}
+
+.newtextitem2 ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    padding-left: 11px;
+    padding-top: 20px;
+    padding-bottom: 8px;
+}
+
+.newtextitem2 ul li {
+    display: block;
+    padding-bottom: 12px;
+}
+
+.newtextitem2 ul li:last-child {
+    padding-bottom: 0px;
+}
+
+.newtextitem2 ul li span {
+    width: 5px;
+    height: 5px;
+    background-color: #212529;
+    display: block;
+    border-radius: 40px;
+}
+
+.newtextitem2 ul li p {
+    color: #000;
+    font-size: 19px;
+    line-height: 36px;
+    margin: 0;
+    padding-left: 14px;
+    margin-top: -21px;
+    font-weight: 400;
+}
+
+.Cookieslist {
+    padding-top: 0 !important;
+    margin-left: 20px !important;
+}
+
+.newtextitems2 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border-bottom: none;
+}
+
+.top5casinold1-francecsno-text-area2 .top5casinold1text-part {
+    padding: 65px 50px;
+    padding-bottom: 25px;
+}
+
+.populargetbonus-area {
+    padding: 100px 0;
+}
+
+.populargetbonus-part {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 45px;
+    align-items: center;
+    justify-content: space-around;
+    grid-row-gap: 20px;
+}
+
+.populargetbonus-box {
+    border-radius: 10px;
+    border: 1.5px solid #e4e4e4;
+    background: #fff;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.populargetbonus-item1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.populargetbonus-item1left {
+    width: 60%;
+}
+
+.populargetbonus-item1right {
+    width: 40%;
+}
+
+.populargetbonus-item1left img {
+    width: 100%;
+    border-radius: 6px;
+}
+
+.populargetbonus-item1right h3 {
+    font-family: "Monda", sans-serif;
+    color: #663399;
+    font-size: 18px;
+    margin: 0;
+    font-weight: 500;
+    padding-bottom: 6px;
+    line-height: 24px;
+}
+
+.populargetbonus-item1right img {
+    max-width: 100%;
+    display: block;
+}
+
+.populargetbonus-item1right p {
+    font-family: "Monda", sans-serif;
+    color: #fff;
+    width: 58px;
+    height: 31px;
+    background-color: #663399;
+    border-radius: 100px;
+    line-height: 31px;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.populargetbonus-btn a {
+    font-family: "Monda", sans-serif;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 7px;
+    background: var(
+        --gradient-button,
+        linear-gradient(118deg, rgba(180, 85, 243, 0.86) 35.65%, #3937f3 100%)
+    );
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 12px 0;
+    box-sizing: border-box;
+}
+
+.populargetbonus-item2 {
+    padding-top: 20px;
+    padding-bottom: 32px;
+    display: flex;
+    gap: 10px;
+}
+
+.populargetbonus-item2right h2 {
+    font-family: "Monda", sans-serif;
+    font-size: 19px;
+    line-height: 37px;
+    font-weight: 600;
+    margin: 0;
+}
+.populargetbonus-item2right h2 span {
+    font-size: 15px;
+    color: #663399;
+}
+.populargetbonus-item2right p {
+    color: #929292;
+    font-size: 13px;
+    margin: 0;
+    font-weight: 400;
+}
+
+.top5casinold1-faq-area {
+    background-image: url("img/faqbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0;
+    position: relative;
+    z-index: 1;
+}
+.top5casinold1-faq-area::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background: linear-gradient(45deg, #000000, #23054094);
+}
+
+.top5casinold1-faqhd {
+    padding-bottom: 65px;
+}
+
+.top5casinold1-faqhd h2 {
+    font-family: "Monda", sans-serif;
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.ziehharmonika h3 {
+    font-family: "Monda", sans-serif;
+    background: #fff;
+    color: #000000;
+    font-size: 24px;
+    text-align: left;
+    border-radius: 10px;
+    padding: 15px 20px;
+    cursor: pointer;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 24px;
+    padding-right: 40px;
+    transition: 0.25s all;
+    position: relative;
+}
+
+.ziehharmonika h3.active {
+    margin-bottom: 0px;
+    background: #b55bef;
+    color: #fff;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.ziehharmonika h3::before {
+    content: attr(data-prefix);
+    font-size: 18px;
+    margin-right: 9px;
+}
+
+.ziehharmonika h3.alignLeft {
+    padding-left: 35px;
+}
+.ziehharmonika > div {
+    display: none;
+    color: #5e5d5d;
+    background: #fff;
+    border-radius: 0px 0px 10px 10px;
+    border: 1px solid #cdcdcd;
+    text-align: left;
+    padding: 25px 25px;
+    margin-bottom: 24px;
+    line-height: 28px;
+    font-size: 17px;
+}
+
+.ziehharmonika .arrowDown {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 13px 7.5px 0 7.5px;
+    border-color: #272e35 transparent transparent transparent;
+    position: absolute;
+    bottom: 0;
+    left: 40px;
+    transition: 0.25s all;
+    opacity: 0;
+}
+
+.ziehharmonika .collapseIcon {
+    position: absolute;
+    right: 20px;
+    top: 45%;
+    font-size: 40px;
+    font-weight: 600;
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+}
+.ziehharmonika .collapseIcon.alignLeft {
+    right: initial;
+    left: 20px;
+}
+
+.whychooseus-area {
+    background-image: url('img/bg4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 70px 0;
+    padding-bottom: 100px;
+    position: relative;
+    z-index: 1;
+}
+.whychooseus-area::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background: linear-gradient(45deg, #000000d9, #2705487a);
+}
+
+.whychooseus-hd {
+    padding-bottom: 65px;
+}
+
+.whychooseus-hd h2 {
+    font-family: "Monda", sans-serif;
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+.whychooseus-hd p {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+    line-height: 30px;
+    margin: 0;
+    padding: 0px 130px;
+}
+
+.whychooseus-part {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 25px;
+    justify-content: space-around;
+    grid-row-gap: 25px;
+}
+
+.whychooseus-box {
+    border-radius: 10px;
+    background: #fff;
+    padding: 25px 15px;
+    box-sizing: border-box;
+}
+
+.whychooseusbox-img {
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 9px;
+}
+
+.whychooseusbox-img img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.whychooseus-boxtext h4 {
+    font-family: "Monda", sans-serif;
+    color: #000;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 7px;
+}
+
+.whychooseus-boxtext p {
+    color: #5e5d5d;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 400;
+    margin: 0;
+    line-height: 25px;
+    padding-top: 4px;
+}
+
+.mbofrbsbox-bonus {
+    display: none;
+}
+
+.offerbgcl {
+    background: #e4e4e459;
+}
+
+.offerbrcl {
+    border-top: 0px;
+}
+
+.borderradius1 {
+    border-radius: 0px 0px 0px 14px;
+}
+
+.borderradius2 {
+    border-radius: 0px 0px 14px 0px;
+}

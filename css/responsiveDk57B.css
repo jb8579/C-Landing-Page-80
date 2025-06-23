@@ -1,0 +1,633 @@
+@media screen and (min-width: 1240px) and (max-width: 30000px) {
+}
+@media screen and (min-width: 1240px) and (max-width: 1400px) {
+}
+@media screen and (min-width: 1200px) and (max-width: 1239px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .top5casinold1footerlogos ul li a img {
+        height: 78px;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .top5casinold1footerpr-part p br {
+        display: none;
+    }
+
+    .top5casinold1footerlogos ul li a img {
+        height: 66px;
+    }
+
+    .populargetbonus-item2right h2 {
+        font-size: 19px;
+        line-height: 25px;
+        font-weight: 600;
+        padding-bottom: 10px;
+    }
+
+    .whychooseus-boxtext p br {
+        display: none;
+    }
+
+    .whychooseus-boxtext p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .whychooseus-boxtext h4 {
+        font-size: 15px;
+    }
+
+    .top5casinold1-ofrbsbox-score {
+        padding: 0 4px;
+    }
+
+    .top5casinold1-offterboxlogo {
+        padding: 0 10px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .whychooseus-part {
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 25px;
+        grid-row-gap: 30px;
+    }
+
+    .ziehharmonika h3 {
+        font-size: 21px;
+    }
+
+    .populargetbonus-part {
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 35px;
+        grid-row-gap: 35px;
+    }
+
+    .top5casinold1footerpr-part p br {
+        display: none;
+    }
+
+    .top5casinold1footer-nav ul li {
+        margin-right: 10px;
+    }
+
+    .top5casinold1footer-nav ul li a {
+        font-size: 15px;
+    }
+
+    .top5casinold1footerlogos ul li a img {
+        height: 49px;
+    }
+
+    .top5casinold1-offerhd {
+        display: none;
+    }
+
+    .main-top5casinold1-ofrbs-box {
+        display: block;
+        border: 1px solid #e4e4e4;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    .cmofrbsbox-bonus {
+        display: none;
+    }
+
+    .mbofrbsbox-bonus {
+        display: block;
+    }
+
+    .top5casinold1-ofrbs-boxleft {
+        width: 100%;
+    }
+
+    .top5casinold1-ofrbs-boxright {
+        width: 100%;
+        height: initial;
+        border: none;
+        display: flex;
+        align-items: center;
+        padding: 0 0px;
+        box-sizing: border-box;
+        border-left: 0px;
+        gap: 20px;
+        padding-top: 30px;
+    }
+
+    .top5casinold1-ofrbsbox-bonus {
+        width: 40%;
+        height: initial;
+        border: none;
+        align-items: center;
+        padding: 0 0px;
+        box-sizing: border-box;
+        border-left: 0px;
+    }
+
+    .top5casinold1-ofrbs-boxbtn {
+        width: 60%;
+    }
+
+    .top5casinold1-offterboxlogo {
+        width: 40%;
+        position: relative;
+        height: initial;
+        border: none;
+        display: grid;
+        padding: 0 29px;
+        box-sizing: border-box;
+        border-right: 0px;
+    }
+
+    .top5casinold1-ofrbsbox-name {
+        width: 30%;
+        height: initial;
+        border: none;
+        display: grid;
+        padding: 0 0px;
+        box-sizing: border-box;
+    }
+
+    .top5casinold1-ofrbsbox-score {
+        width: 30%;
+        position: relative;
+        height: initial;
+        border: none;
+        padding: 0 0px;
+        box-sizing: border-box;
+        border-left: 0px;
+    }
+
+    .top5casinold1-ofrbs-boxlogo {
+        position: relative;
+        width: 208px;
+        margin: auto;
+    }
+
+    .bettingtext-item1 p {
+        padding-bottom: 5px;
+    }
+
+    .txnewhero-area {
+        padding: 60px 0;
+        padding-bottom: 30px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .top5casinold1-top18plus-area {
+        padding: 8px 10px;
+    }
+    p.top5cspin {
+        font-size: 14px !important;
+    }
+    .top5casinold1-top18plus-part p {
+        font-size: 9px;
+    }
+
+    .headertext h1 {
+        font-size: 22px;
+        padding-bottom: 4px;
+        text-align: center;
+    }
+
+    .headertext p {
+        font-size: 12px;
+        line-height: 17px;
+        text-align: center;
+        padding: 0px;
+    }
+
+    .headertext ul li img {
+        max-width: 100%;
+        height: 24px;
+    }
+
+    .headertext ul {
+        padding-top: 15px;
+        gap: 12px;
+    }
+
+    .headertext ul li {
+        gap: 4px;
+    }
+
+    .headertext ul li h6 {
+        font-size: 10px;
+        font-weight: 500;
+        padding-left: 1px;
+    }
+
+    .main-area {
+        padding: 40px 0;
+    }
+
+    .top5casinold1-offerhd {
+        display: none;
+    }
+
+    .main-top5casinold1-ofrbs-box {
+        display: block;
+        padding: 16px 10px;
+        box-sizing: border-box;
+    }
+
+    .cmofrbsbox-bonus {
+        display: none;
+    }
+
+    .top5casinold1-ofrbs-boxleft {
+        width: 100%;
+        gap: 10px;
+        padding-bottom: 11px;
+    }
+
+    .mbofrbsbox-bonus {
+        display: block;
+    }
+
+    .top5casinold1-ofrbs-boxpart {
+        border: 1px solid #e4e4e4;
+        border-radius: 5px;
+    }
+
+    .top5casinold1-ofrbs-boxright {
+        width: 100%;
+        height: inherit;
+        border: none;
+        display: flex;
+        align-items: center;
+        padding: 0 0px;
+        box-sizing: border-box;
+        border-left: 0px;
+        gap: 10px;
+    }
+
+    .top5casinold1-ofrbs-boxbtn {
+        width: 60%;
+    }
+
+    .top5casinold1-ofrbsbox-bonus {
+        width: 40%;
+        height: initial;
+        border: none;
+        padding: 0 0px;
+        border-left: 0px;
+    }
+
+    .mbofrbsbox-bonus {
+        display: block;
+    }
+
+    .top5casinold1-ofrbsbox-bonus p {
+        font-size: 12px;
+    }
+
+    .top5casinold1-ofrbsbox-bonus h3 {
+        font-size: 18px;
+        padding-top: 0px;
+    }
+
+    .top5casinold1-ofrbs-boxbtn a {
+        font-size: 16px;
+        width: 100%;
+        height: 45px;
+        line-height: 45px;
+        display: block;
+        border-radius: 6px;
+    }
+
+    .top5casinold1-offterboxlogo {
+        width: 40%;
+        position: relative;
+        height: initial;
+        border: none;
+        padding: 0 0px;
+        box-sizing: border-box;
+        border-right: 0px;
+    }
+
+    .top5casinold1-ofrbsbox-name {
+        width: 30%;
+        height: initial;
+        border: none;
+        padding: 0 0px;
+        box-sizing: border-box;
+    }
+
+    .top5casinold1-ofrbsbox-score {
+        width: 30%;
+        position: relative;
+        height: initial;
+        border: none;
+        padding: 0 0px;
+        border-left: 0px;
+    }
+
+    .top5casinold1-ofrbsbox-name h3 {
+        font-size: 15px;
+        line-height: 20px;
+        text-align: left;
+        padding-bottom: 5px;
+    }
+
+    .top5casinold1-ofrbsbox-name img {
+        margin-left: 0;
+    }
+
+    .top5casinold1-ofrbsbox-name p {
+        font-size: 10px;
+        line-height: 19px;
+        padding-top: 1px;
+        text-align: left;
+    }
+
+    .scorebox {
+        width: 70px;
+        height: 35px;
+        margin: auto;
+    }
+
+    .scorebox h4 {
+        font-size: 20px;
+    }
+
+    .scorebox h4 sub {
+        font-size: 10px;
+        padding-bottom: 6px;
+        padding-left: 3px;
+    }
+
+    .offer {
+        width: 39px;
+        height: 21px;
+        position: relative;
+    }
+
+    .offer p {
+        font-size: 10px;
+        padding: 2px 0;
+    }
+
+    .cutbox {
+        top: 11px;
+    }
+
+    .top5casinold1-ofrbs-box-area {
+        padding: 30px 0;
+        padding-bottom: 30px;
+    }
+
+    .mainoffer {
+        top: 4px;
+    }
+
+    .whychooseus-part {
+        grid-template-columns: repeat(1, 1fr);
+        grid-row-gap: 30px;
+    }
+
+    .populargetbonus-part {
+        grid-template-columns: repeat(1, 1fr);
+        grid-row-gap: 25px;
+    }
+
+    .populargetbonus-item2right h2 {
+        font-size: 13px;
+        line-height: 30px;
+    }
+
+    .populargetbonus-item2right p {
+        font-size: 11px;
+    }
+
+    .populargetbonus-btn a {
+        font-size: 16px;
+        padding: 8px 0;
+    }
+
+    .populargetbonus-item2 {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .populargetbonus-item1right p {
+        font-size: 14px;
+        width: 50px;
+        height: 25px;
+        line-height: 27px;
+        margin-top: 8px;
+    }
+
+    .populargetbonus-item1right img {
+        height: 15px;
+    }
+
+    .populargetbonus-item1right h3 {
+        font-size: 16px;
+        padding-bottom: 4px;
+        line-height: 21px;
+    }
+
+    .populargetbonus-area {
+        padding: 40px 0;
+    }
+
+    .whychooseus-hd h2 {
+        font-size: 23px;
+        padding-bottom: 12px;
+        line-height: 34px;
+    }
+
+    .whychooseus-hd p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+        padding: 0px;
+    }
+
+    .whychooseus-hd {
+        padding-bottom: 35px;
+    }
+
+    .whychooseus-area {
+        padding: 40px 0;
+        padding-bottom: 40px;
+    }
+
+    .bettingtext-hd h2 {
+        font-size: 23px;
+        line-height: 38px;
+        padding-bottom: 8px;
+        font-weight: 700;
+    }
+
+    .bettingtext-hd p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .bettingtext-item1 h2 {
+        font-size: 18px;
+        padding-bottom: 8px;
+        line-height: 25px;
+    }
+
+    .bettingtext-item1 p {
+        font-size: 15px;
+        line-height: 24px;
+        font-weight: 400;
+    }
+
+    .bettingtext-hd {
+        padding-bottom: 25px;
+    }
+
+    .bettingtext-area {
+        padding: 30px 0;
+        padding-bottom: 0;
+    }
+
+    .top5casinold1-faqhd h2 {
+        font-size: 25px;
+    }
+
+    .top5casinold1-faqhd {
+        padding-bottom: 30px;
+    }
+
+    .ziehharmonika h3 {
+        font-size: 16px;
+        text-align: left;
+        padding: 15px 20px;
+        margin-top: 0;
+        margin-bottom: 13px;
+        padding-right: 40px;
+    }
+
+    .ziehharmonika .collapseIcon {
+        font-size: 32px;
+    }
+
+    .ziehharmonika > div {
+        font-size: 15px;
+        border-radius: 0px 0px 10px 10px;
+        text-align: left;
+        padding: 15px 20px;
+        margin-bottom: 24px;
+        line-height: 23px;
+        font-weight: 400;
+    }
+
+    .top5casinold1-faq-area {
+        padding: 30px 0;
+    }
+
+    .top5casinold1footerpr-part p br {
+        display: none;
+    }
+
+    .top5casinold1footerpr-part p {
+        font-size: 14px;
+        line-height: 20px;
+        padding: 8px 0px;
+        text-align: center;
+    }
+
+    .top5casinold1footer-nav ul li a {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 40px;
+        text-decoration: underline;
+    }
+
+    .top5casinold1footer-nav ul li span {
+        font-size: 12px;
+    }
+
+    .top5casinold1footer-nav ul li {
+        margin-right: 10px;
+        padding-bottom: 10px;
+    }
+
+    .top5casinold1footerlogos ul li {
+        display: inline-block;
+        margin: 5px 4px;
+    }
+
+    .top5casinold1footerlogos ul li a img {
+        height: 44px;
+    }
+
+    .top5casinold1footer-nav ul {
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .top5casinold1footer-part {
+        padding-top: 40px;
+    }
+
+    .top5casinold1-copyright-area p {
+        font-size: 12px;
+        margin: 0px;
+        line-height: 22px;
+    }
+
+    .top5casinold1footerlogos ul {
+        padding-bottom: 3px;
+    }
+
+    .txnewherotext h1 {
+        font-size: 30px;
+        padding-bottom: 25px;
+    }
+
+    .txnewhero-area {
+        padding: 26px 0;
+        padding-bottom: 0px;
+    }
+}
+
+@media screen and (max-width: 418px) {
+    .headertext h1 {
+        font-size: 19px;
+        font-weight: 800;
+    }
+    .headertext ul li h6 {
+        font-size: 9px;
+        font-weight: 500;
+        padding-left: 0px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .main-area {
+        background-image: url("../img/mbbg1.webp");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        z-index: 1;
+    }
+    .main-area::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: -1;
+        background: linear-gradient(140deg, #000000f2, #41057c85);
+    }
+}
